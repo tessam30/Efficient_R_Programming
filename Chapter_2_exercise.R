@@ -33,3 +33,14 @@ pop_long %>%
   scale_x_continuous(breaks = seq(1910, 2010, 30))
 
 
+# Project file structure --------------------------------------------------
+
+# -- book recommends something along the following lines for a setup
+# README
+# R/ for R code
+# Datain
+# Dataout
+# output/ for results
+
+
+
