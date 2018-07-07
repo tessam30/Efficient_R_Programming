@@ -46,5 +46,7 @@ df <- data.frame(v = 1:4,
   file.copy() # -- copy files from one directory to another
   dir.create() # -- create a directory/folder
   list.files() # -- list files 
+
   
+
   
